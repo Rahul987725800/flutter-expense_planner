@@ -37,7 +37,7 @@ class NewTransaction extends StatelessWidget {
                   num.parse(amountController.text),
                 );
               },
-            )
+            ),
           ],
         ),
       ),
